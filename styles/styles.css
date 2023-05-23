@@ -42,7 +42,7 @@ SVG Icons - svgicons.sparkk.fr
 .main-content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 90px 90px;
 }
 
 /* about styles */
@@ -65,7 +65,7 @@ SVG Icons - svgicons.sparkk.fr
     font-size: 45px;
     line-height: 55px;
     color: #000000;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 
 }
 .about-description {
