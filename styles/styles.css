@@ -19,7 +19,7 @@ SVG Icons - svgicons.sparkk.fr
   }
   .svg-icon-black {
     fill: #000000;
-    margin-right: 5px;
+    /* margin-right: 5px; */
   }
   .svg-icon path,
   .svg-icon polygon,
@@ -107,6 +107,7 @@ SVG Icons - svgicons.sparkk.fr
 .project-list {
     padding: 0;
     margin-left: 15px;
+    list-style: none;
 }
 
 .project-item {
@@ -279,6 +280,15 @@ SVG Icons - svgicons.sparkk.fr
     font-size: 14px;
     line-height: 24px;
     color: #8E949C;
+    text-decoration: none;
+}
+.contact-link-dec {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8E949C;
+    /* text-decoration: none; */
 }
 
 .sidebar-title {
