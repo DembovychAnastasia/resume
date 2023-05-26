@@ -195,6 +195,15 @@ SVG Icons - svgicons.sparkk.fr
     line-height: 24px;
     color: #595959;
 }
+.work-position-category {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+
+}
     /* education styles */
 .education {
    
